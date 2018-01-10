@@ -1,0 +1,14 @@
+
+快捷键	含义
+Command+0	显示/隐藏导航器面板（左侧）
+Command+Option+0	显示/隐藏实用工具面板（右侧)
+shift + command + Y	显示debug栏（下面）
+Command+Shift+F	搜索导航器(Find Navigator，搜索)
+Control+6	键入方法/变量名+Enter跳转
+Command + Shift + O	快速打开
+Control + Command + Up / Down	.h/.m文件之间快速跳转
+Command + Shift + K	清除工程
+Command + Shift + 0	快速查找文档和参考
+Command + Shift + J	快速跳转到指定文件
+command + L	跳转到指定行
+shift + command +L	跳转到光标所在的行
